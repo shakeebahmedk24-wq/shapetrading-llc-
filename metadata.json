@@ -1,0 +1,8 @@
+{
+  "name": "Shape Trading L.L.C. | Wholesale Electrical Home Appliances Dubai",
+  "description": "Dubai-based wholesale trading and distribution company for electrical home appliances, featuring Philux, Marshal, Power King, and authorized distribution across Africa, Middle East, and Asia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
